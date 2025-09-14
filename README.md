@@ -1,4 +1,4 @@
-# Property Investment and Affordability Dashboard
+![House Affordability Dashboard_page-0002](https://github.com/user-attachments/assets/0e149c89-b91d-468c-9423-10912aa9c972)![House Affordability Dashboard_page-0003](https://github.com/user-attachments/assets/f9024204-1fca-4c30-9eb7-b84368f7b044)# Property Investment and Affordability Dashboard
 
 This project provides a comprehensive dashboard for analyzing property investment opportunities and affordability in Malaysia. It leverages data-driven insights to help users make informed decisions about where to buy and what to expect in terms of affordability and potential returns.
 
@@ -16,7 +16,7 @@ This section allows users to understand their property affordability based on th
 *   **Most Affordable Township for Current Job:** Identifies the top affordable township based on the selected job profile, along with its name and state on a map.
 
 ### 2. Investment Opportunity Explorer
-<img src="https://github.com/user-attachments/assets/21a08dc5-8184-43ab-9633-d91342a62771" width="800"><br>
+<img src="https://github.com/user-attachments/assets/3d073de4-f3b2-4f4d-9d11-b257ad7df53d" width="800"><br>
 This section helps users discover potential investment properties by filtering based on various criteria.
 
 *   **Job Title and Average Monthly Salary:** Pre-filled from the Affordability Profile, providing context for investment capacity.
@@ -27,7 +27,7 @@ This section helps users discover potential investment properties by filtering b
 *   **ROI by Township Chart:** A detailed line chart showing the ROI trend across different townships.
 
 ### 3. AI-Driven Insights
-<img src="https://github.com/user-attachments/assets/61fd1ab8-40b3-4f56-909f-c392a9b3f9d4" width="800"><br>
+<img src="https://github.com/user-attachments/assets/9a7bac2a-70af-4f2a-8189-7dfd04e93af7" width="800"><br>
 This section provides advanced analytics on factors influencing property affordability.
 
 *   **Key Influencers:** Identifies the factors that most strongly influence the likelihood of a property being "Unaffordable Top 10%."
