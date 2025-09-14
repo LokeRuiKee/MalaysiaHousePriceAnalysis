@@ -7,7 +7,7 @@ This project provides a comprehensive dashboard for analyzing property investmen
 The dashboard is divided into three main sections, each offering unique insights:
 
 ### 1. My Affordability Profile
-<img src="https://github.com/user-attachments/assets/4989bf93-b7e5-400c-814b-0fae6ac7c221" width="800">
+<img src="https://github.com/user-attachments/assets/4989bf93-b7e5-400c-814b-0fae6ac7c221" width="800"><br>
 This section allows users to understand their property affordability based on their job title and years of experience.
 
 *   **Job Title Selection:** Choose from a list of common job titles (e.g., Accountant, Business Analyst, Content Marketer).
@@ -16,7 +16,7 @@ This section allows users to understand their property affordability based on th
 *   **Most Affordable Township for Current Job:** Identifies the top affordable township based on the selected job profile, along with its name and state on a map.
 
 ### 2. Investment Opportunity Explorer
-<img src="https://github.com/user-attachments/assets/21a08dc5-8184-43ab-9633-d91342a62771" width="800">
+<img src="https://github.com/user-attachments/assets/21a08dc5-8184-43ab-9633-d91342a62771" width="800"><br>
 This section helps users discover potential investment properties by filtering based on various criteria.
 
 *   **Job Title and Average Monthly Salary:** Pre-filled from the Affordability Profile, providing context for investment capacity.
@@ -27,7 +27,7 @@ This section helps users discover potential investment properties by filtering b
 *   **ROI by Township Chart:** A detailed line chart showing the ROI trend across different townships.
 
 ### 3. AI-Driven Insights
-<img src="https://github.com/user-attachments/assets/61fd1ab8-40b3-4f56-909f-c392a9b3f9d4" width="800">
+<img src="https://github.com/user-attachments/assets/61fd1ab8-40b3-4f56-909f-c392a9b3f9d4" width="800"><br>
 This section provides advanced analytics on factors influencing property affordability.
 
 *   **Key Influencers:** Identifies the factors that most strongly influence the likelihood of a property being "Unaffordable Top 10%."
