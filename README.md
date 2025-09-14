@@ -1,4 +1,4 @@
-![House Affordability Dashboard_page-0002](https://github.com/user-attachments/assets/0e149c89-b91d-468c-9423-10912aa9c972)![House Affordability Dashboard_page-0003](https://github.com/user-attachments/assets/f9024204-1fca-4c30-9eb7-b84368f7b044)# Property Investment and Affordability Dashboard
+# Property Investment and Affordability Dashboard
 
 This project provides a comprehensive dashboard for analyzing property investment opportunities and affordability in Malaysia. It leverages data-driven insights to help users make informed decisions about where to buy and what to expect in terms of affordability and potential returns.
 
@@ -7,7 +7,7 @@ This project provides a comprehensive dashboard for analyzing property investmen
 The dashboard is divided into three main sections, each offering unique insights:
 
 ### 1. My Affordability Profile
-<img src="https://github.com/user-attachments/assets/4989bf93-b7e5-400c-814b-0fae6ac7c221" width="800"><br>
+<img src="https://github.com/user-attachments/assets/47423f15-0522-454d-bd8e-b10f335c8215" width="800"><br>
 This section allows users to understand their property affordability based on their job title and years of experience.
 
 *   **Job Title Selection:** Choose from a list of common job titles (e.g., Accountant, Business Analyst, Content Marketer).
