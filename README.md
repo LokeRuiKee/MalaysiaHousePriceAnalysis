@@ -1,4 +1,4 @@
-# Property Investment and Affordability Dashboard
+# Malaysia Property Affordability and Investment Dashboard
 
 This project provides a comprehensive dashboard for analyzing property investment opportunities and affordability in Malaysia. It leverages data-driven insights to help users make informed decisions about where to buy and what to expect in terms of affordability and potential returns.
 
